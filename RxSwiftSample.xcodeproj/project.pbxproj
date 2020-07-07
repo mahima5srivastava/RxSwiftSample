@@ -47,6 +47,7 @@
 		7CC52B22233F0D09FD77DF88 /* Pods-RxSwiftSample-RxSwiftSampleUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwiftSample-RxSwiftSampleUITests.release.xcconfig"; path = "Target Support Files/Pods-RxSwiftSample-RxSwiftSampleUITests/Pods-RxSwiftSample-RxSwiftSampleUITests.release.xcconfig"; sourceTree = "<group>"; };
 		8B1457354980EFF84D001383 /* Pods-RxSwiftSample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwiftSample.debug.xcconfig"; path = "Target Support Files/Pods-RxSwiftSample/Pods-RxSwiftSample.debug.xcconfig"; sourceTree = "<group>"; };
 		A1994D94B65A1FB938DA2FBE /* Pods-RxSwiftSampleTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwiftSampleTests.release.xcconfig"; path = "Target Support Files/Pods-RxSwiftSampleTests/Pods-RxSwiftSampleTests.release.xcconfig"; sourceTree = "<group>"; };
+		D45C0D7924C315E000C3C826 /* RxFilteringOperators.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RxFilteringOperators.playground; sourceTree = "<group>"; };
 		D4B166A724C439DE00C6073F /* RxSwiftSample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RxSwiftSample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4B166AA24C439DE00C6073F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4B166AC24C439DE00C6073F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -134,6 +135,7 @@
 		D4B166A924C439DE00C6073F /* RxSwiftSample */ = {
 			isa = PBXGroup;
 			children = (
+				D45C0D7924C315E000C3C826 /* RxFilteringOperators.playground */,
 				D4B166E024C44CBE00C6073F /* RxSubjects.playground */,
 				D4B166DF24C4425100C6073F /* RxSwiftDispose.playground */,
 				D4B166DE24C43ADE00C6073F /* RxSwiftPlayground.playground */,
